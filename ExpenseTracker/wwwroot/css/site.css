@@ -42,6 +42,13 @@ custom-rbt-group label.e-btn{
     border:1px solid #fff;
 }
 
+.main-content{
+    margin-left:20vw
+}
+.footer-content {
+    margin-left: 20vw
+}
+
 
 /*Button*/
 .btn:focus, .btn:active {
@@ -131,4 +138,10 @@ custom-rbt-group label.e-btn{
 .widget{
     border-radius:1rem;
     background-color:#1a222b;
+}
+
+/*sideBar*/
+#sideBar{
+    border-right:1px dashed rgba(75,82,85,0.24);
+    padding:10px 20px;
 }
