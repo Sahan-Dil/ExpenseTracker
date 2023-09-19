@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CHOeTvONxlGg0Nfl69B4TjNu5+WQZ+mj5SMtZ1tWKE0=",
+  "Hash": "9+jksKCQQW4TPE+6Afzm2r6mlObmZvQNqNPp4/wlOk0=",
   "Source": "ExpenseTracker",
   "BasePath": "_content/ExpenseTracker",
   "Mode": "Default",
@@ -1069,6 +1069,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "E:\\projects\\ExpenseTracker\\ExpenseTracker\\wwwroot\\logo.png",
+      "SourceId": "ExpenseTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\ExpenseTracker\\ExpenseTracker\\wwwroot\\",
+      "BasePath": "_content/ExpenseTracker",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "E:\\projects\\ExpenseTracker\\ExpenseTracker\\wwwroot\\profimg.jpg",
+      "SourceId": "ExpenseTracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\projects\\ExpenseTracker\\ExpenseTracker\\wwwroot\\",
+      "BasePath": "_content/ExpenseTracker",
+      "RelativePath": "profimg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profimg.jpg"
     }
   ]
 }
